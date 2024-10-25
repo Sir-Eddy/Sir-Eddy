@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**EddyXII/EddyXII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Elias, a **Cyber Security student** at the Deggendorf Institute of Technology. 
 
-Here are some ideas to get you started:
+### About Me
+- 🛡️ Passionate about keeping data and systems secure.
+- 💻 Experienced in **Python** and **C++**.
+- 🚀 Currently exploring the depths of **Rust**.
+- 🎓 Always eager to learn and improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+- **Cybersecurity**: Protecting digital assets and ensuring privacy.
+- **Programming**: Writing clean, efficient code in various languages.
+- **Tech Innovations**: Following the latest trends in technology and cybersecurity.
+
+### Skills
+- **Python**: Developing scripts and applications.
+- **C++**: Building high-performance software.
+- **Rust**: Exploring systems programming.
