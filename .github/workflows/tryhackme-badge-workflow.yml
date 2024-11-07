@@ -7,13 +7,13 @@ on:
   workflow_dispatch:
 jobs:
   tryhackme-badge-update:
-    name: Update this repo's tryhackme badge with the latest tryhackme image badge
+    name: Update this repos tryhackme badge with the latest tryhackme image badge
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: p4p1/tryhackme-badge-workflow@main
+      - uses: DhanushNehru/tryhackme-badge-action-workflow@v1.0
         with:
-          # Replace with your tryhackme username
-          username: "elias.eder"
-          GITHUB_TOKEN: ${{secrets.THM_TOKEN}} # Do not paste your github token here - this is a placeholder
-                                                  # and will pull your github token automatically
+          username: 'elias.eder'
+          user_id: '2372040'
+          image_path: './assets/tryhackme-badge.png'
+          GITHUB_TOKEN: ${{secrets.THM_TOKEN}}
