@@ -4,6 +4,8 @@ I am Elias, a **Cyber Security student** at the Deggendorf Institute of Technolo
 
 ![tryhackme stats](https://raw.githubusercontent.com/EddyXII/EddyXII/master/assets/tryhackme-badge.png)
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2372040" style='border:none;'></iframe>
+
 ### About Me
 - 🛡️ Passionate about keeping data and systems secure.
 - 💻 Experienced in **Python** and **C++**.
