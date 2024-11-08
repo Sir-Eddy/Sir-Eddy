@@ -16,4 +16,4 @@ jobs:
           username: 'elias.eder'
           user_id: '2372040'
           image_path: './assets/tryhackme-badge.png'
-          GITHUB_TOKEN: ${{secrets.THM_TOKEN}}
+          GITHUB_TOKEN: ${{ secrets.THM_TOKEN }}
