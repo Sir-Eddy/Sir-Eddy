@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 I am Elias, a **Cyber Security student** at the Deggendorf Institute of Technology. 
 
