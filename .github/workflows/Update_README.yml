@@ -1,0 +1,36 @@
+name: Update README Cachebuster
+
+on:
+  schedule:
+    # Täglich um Mitternacht (UTC)
+    - cron: '0 0 * * *'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    # 1. Repository klonen
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    # 2. Cache-Busting-Parameter aktualisieren
+    - name: Update cache-buster in README.md
+      run: |
+        # Erzeuge einen neuen Zeitstempel
+        TIMESTAMP=$(date +%s)
+        
+        # Aktualisiere den Cache-Busting-Parameter im README.md
+        sed -i "s/cachebuster=[0-9]*/cachebuster=${TIMESTAMP}/" README.md
+
+    # 3. Änderungen committen
+    - name: Commit changes
+      run: |
+        git config --local user.name "GitHub Action"
+        git config --local user.email "action@github.com"
+        git add README.md
+        git commit -m "Automatische Aktualisierung des Cache-Busting-Parameters"
+
+    # 4. Änderungen pushen
+    - name: Push changes
+      run: git push
