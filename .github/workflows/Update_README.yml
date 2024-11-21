@@ -4,6 +4,9 @@ on:
   schedule:
     # Täglich um Mitternacht (UTC)
     - cron: '0 0 * * *'
+    
+  # Manuelles Auslösen erlauben
+  workflow_dispatch:
 
 jobs:
   update-readme:
