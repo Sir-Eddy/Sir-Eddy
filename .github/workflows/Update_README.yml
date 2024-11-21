@@ -18,7 +18,7 @@ jobs:
     - name: Update cache-buster in README.md
       run: |
         # Erzeuge einen neuen Zeitstempel
-        TIMESTAMP=$(date +%s)
+        TIMESTAMP=$(TZ=Europe/Berlin date +%s)
         
         # Aktualisiere den Cache-Busting-Parameter im README.md
         sed -i "s/cachebuster=[0-9]*/cachebuster=${TIMESTAMP}/" README.md
