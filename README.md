@@ -1,5 +1,8 @@
 ## Hello there 👋
 
+![Code](https://img.shields.io/badge/Code_with_love-%3C3-red?style=for-the-badge)
+![Coffee](https://img.shields.io/badge/Made_with-coffee-brown?style=for-the-badge)
+
 I am Elias, a **Cyber Security student** at the Deggendorf Institute of Technology. 
 
 [![THM Badge](https://tryhackme-badges.s3.amazonaws.com/elias.eder.png?cachebuster=1736988055)](https://tryhackme.com/r/p/elias.eder)
