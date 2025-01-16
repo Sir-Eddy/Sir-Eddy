@@ -15,8 +15,6 @@ I am Elias, a **Cyber Security student** at the Deggendorf Institute of Technolo
 - **Programming**: Writing clean, efficient code in various languages.
 - **Tech Innovations**: Following the latest trends in technology and cybersecurity.
 
-### Skills
-- **Python**: Developing scripts and applications.
-- **C++**: Building high-performance software.
-- **Rust**: Exploring systems programming.
+### Languages
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sir-Eddy&layout=compact&theme=tokyonight)
