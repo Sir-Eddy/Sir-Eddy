@@ -1,7 +1,5 @@
 ## Hello there 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sir-Eddy&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sir-Eddy&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sir-Eddy&layout=compact&theme=tokyonight)
 
 I am Elias, a **Cyber Security student** at the Deggendorf Institute of Technology. 
