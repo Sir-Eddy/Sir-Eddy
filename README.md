@@ -5,7 +5,7 @@
 
 I am Elias, a **Cyber Security student** at the Deggendorf Institute of Technology. 
 
-[![THM Badge](https://tryhackme-badges.s3.amazonaws.com/elias.eder.png?cachebuster=1754700659)](https://tryhackme.com/r/p/elias.eder)
+[![THM Badge](https://tryhackme-badges.s3.amazonaws.com/elias.eder.png?cachebuster=1754787552)](https://tryhackme.com/r/p/elias.eder)
 
 ### About Me
 - 🛡️ Passionate about keeping data and systems secure.
