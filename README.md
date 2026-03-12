@@ -35,6 +35,7 @@ In addition, I am currently learning about the following:
 
 <div>
   <a href="https://www.r-project.org/"><img src="assets/icons/R.svg" width="48" height="48" alt="R"></a>
+  <a href="https://www.ibm.com/quantum/qiskit"><img src="assets/icons/qiskit.svg" width="48" height="48" alt="Qiskit"></a>
 </div>
 
 <br>
