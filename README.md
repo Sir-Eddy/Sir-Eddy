@@ -1,23 +1,46 @@
-## Hello there 👋
+<img src="assets/header.svg" alt="Hello!">
 
-![Code](https://img.shields.io/badge/Code_with_love-%3C3-red?style=for-the-badge)
-![Coffee](https://img.shields.io/badge/Made_with-coffee-brown?style=for-the-badge)
+I am an engaged Cyber Security Student🎓 studying in Germany. 
+I can speak English and German.
+During my studies, I worked at [Max Streicher](https://www.streicher.de/) as an IT-Security Administrator.
 
-I am Elias, a **Cyber Security student** at the Deggendorf Institute of Technology. 
+<br>
+<img src="assets/header_2.svg" alt="Languages and more">
 
-[![THM Badge](https://tryhackme-badges.s3.amazonaws.com/elias.eder.png?cachebuster=1773277185)](https://tryhackme.com/r/p/elias.eder)
+A selection of languages, frameworks and software that I have experience with:
 
-### About Me
-- 🛡️ Passionate about keeping data and systems secure.
-- 💻 Experienced in **Python** and **C++**.
-- 🚀 Currently exploring the depths of **Rust**.
-- 🎓 Always eager to learn and improve my skills.
+<div>
+  <a href="https://www.python.org/"><img src="assets/icons/python.svg" alt="P"></a>
+  <a href="https://rust-lang.org/"><img src="assets/icons/rust.svg" alt="R"></a>
+</div>
+    
+<div>
+  <a href="https://www.postgresql.org/"><img src="assets/icons/postgresql.svg" alt="P"></a>
+</div>
+<br>
 
-### Interests
-- **Cybersecurity**: Protecting digital assets and ensuring privacy.
-- **Programming**: Writing clean, efficient code in various languages.
-- **Tech Innovations**: Following the latest trends in technology and cybersecurity.
+In addition, I am currently learning about the following:
 
-### Languages
+<div>
+  <a href="https://elixir-lang.org/"><img src="assets/icons/elixir.svg" alt="E"></a>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sir-Eddy&layout=compact&theme=tokyonight)
+<br>
+<img src="assets/header_3.svg" alt="Stats">
+
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="" alt="GitHub Stats" align="right" width="40%">
+  </a>
+  <div align="left">
+    <h3>My favourite project I work on ❤️</h3>
+    <a href="">
+      <img src="" alt="Readme Card" width="53%">
+    </a>
+  </div>
+</div>
+
+<br>
+<img src="assets/header_4.svg" alt="More">
+
+**Checkout one of my repositories pinned below! Leave a star⭐ if you like them❤️!**
