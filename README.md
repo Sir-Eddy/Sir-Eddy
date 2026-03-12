@@ -11,17 +11,18 @@ I’m passionate about secure software development 💻, automation ⚡ and mode
 A selection of languages, frameworks and software that I have experience with:
 
 <div>
-  <a href="https://www.python.org/"><img src="assets/icons/python.svg" alt="P"></a>
-  <a href="https://rust-lang.org/"><img src="assets/icons/rust.svg" alt="R"></a>
-  <a href="https://isocpp.org/"><img src="assets/icons/c++.svg" alt="R"></a>
+  <a href="https://www.python.org/"><img src="assets/icons/python.svg" width="48" height="48" alt="Python"></a>
+  <a href="https://rust-lang.org/"><img src="assets/icons/rust.svg" width="48" height="48" alt="Rust"></a>
+  <a href="https://isocpp.org/"><img src="assets/icons/c++.svg" width="48" height="48" alt="C++"></a>
 </div>
-    
+
 <div>
-  <a href="https://www.postgresql.org/"><img src="assets/icons/postgresql.svg" alt="P"></a>
-  <a href="https://typst.app/"><img src="assets/icons/typst.svg" alt="P"></a>
-  <a href="https://www.trellix.com/"><img src="assets/icons/trellix.svg" alt="P"></a>
-  <a href="https://www.skyhighsecurity.com/"><img src="assets/icons/skyhigh.svg" alt="P"></a>
+  <a href="https://www.postgresql.org/"><img src="assets/icons/postgresql.svg" width="48" height="48" alt="PostgreSQL"></a>
+  <a href="https://typst.app/"><img src="assets/icons/typst.svg" width="48" height="48" alt="Typst"></a>
+  <a href="https://www.trellix.com/"><img src="assets/icons/trellix.svg" width="48" height="48" alt="Trellix"></a>
+  <a href="https://www.skyhighsecurity.com/"><img src="assets/icons/skyhigh.svg" width="48" height="48" alt="Skyhigh"></a>
 </div>
+
 <br>
 
 In addition, I am currently learning about the following:
