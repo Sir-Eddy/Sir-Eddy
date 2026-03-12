@@ -47,7 +47,7 @@ In addition, I am currently learning about the following:
   </a>
   <div align="left">
     <h3>My favourite project I work on ❤️</h3>
-    <a href="https://github.com/Biscgit/streamlet">
+    <a href="https://github.com/Sir-Eddy/thd_notes">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sir-Eddy&repo=thd_notes&theme=dracula&hide_border=true&bg_color=80808010" alt="Readme Card" width="53%">
     </a>
   </div>
