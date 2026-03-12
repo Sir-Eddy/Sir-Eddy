@@ -1,4 +1,4 @@
-<img src="assets/header.svg" alt="Hello!">
+<img src="assets/header_1.svg" alt="Hello!">
 
 I am an engaged Cyber Security Student🎓 studying in Germany. 
 I can speak English and German.
