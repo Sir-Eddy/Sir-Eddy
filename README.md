@@ -2,6 +2,7 @@
 
 I am a cybersecurity student based in Germany, focusing on offensive and defensive security 🔐.  
 I currently work at MAX STREICHER GmbH & Co. KG aA, supporting security‑related processes and technical improvements ⚙️.
+
 I’m passionate about secure software development 💻, automation ⚡ and modern monitoring workflows 🔭 — and I aim to specialize in AI‑driven cybersecurity and data science 🤖📊.
 
 <br>
