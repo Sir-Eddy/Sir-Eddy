@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0.6 1067.9 90.3 109.1"
+     width="100%"
+     height="auto"
+     preserveAspectRatio="xMidYMid meet"
+     role="img"
+     aria-labelledby="iconTitle iconDesc">
+  <title id="iconTitle">Rotes Emblem mit Punkt</title>
+  <desc id="iconDesc">Abstraktes, rotes Emblem mit geschwungenen Pfaden und einem kleinen Kreis oben rechts.</desc>
+
+  <defs>
+    <style>
+      .fill-red{fill:#EE4C2C}
+    </style>
+  </defs>
+
+  <g id="emblem" transform="translate(0 0) scale(1)">
+    <path class="fill-red" d="M77.6,1099.6l-8.1,8.1c13.3,13.3,13.3,34.7,0,47.8c-13.3,13.3-34.7,13.3-47.8,0
+      c-13.3-13.3-13.3-34.7,0-47.8l0,0l21.1-21.1l3-3l0,0v-15.9l-31.8,31.8c-17.7,17.7-17.7,46.3,0,64c17.7,17.7,46.3,17.7,63.7,0
+      C95.3,1145.8,95.3,1117.4,77.6,1099.6z"/>
+    <circle class="fill-red" cx="61.7" cy="1091.8" r="5.9"/>
+  </g>
+</svg>

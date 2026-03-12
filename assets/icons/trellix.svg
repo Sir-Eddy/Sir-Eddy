@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 432.56 436.47"
+     width="100%"
+     height="auto"
+     preserveAspectRatio="xMidYMid meet"
+     role="img"
+     aria-labelledby="cTitle cDesc">
+  <title id="cTitle">Abstraktes Emblem mit Farbverlauf</title>
+  <desc id="cDesc">Dreieckige, mehrfarbige Form mit weißem, gestapeltem Polygonmuster.</desc>
+
+  <defs>
+    <linearGradient id="grad-e" x1="172.44" y1="107.61" x2="432.56" y2="107.61" gradientUnits="userSpaceOnUse">
+      <stop offset="0.07" stop-color="#3600ff"/>
+      <stop offset="0.12" stop-color="#2e17ff"/>
+      <stop offset="0.25" stop-color="#1a54ff"/>
+      <stop offset="0.36" stop-color="#0c7fff"/>
+      <stop offset="0.45" stop-color="#039aff"/>
+      <stop offset="0.5" stop-color="#00a5ff"/>
+      <stop offset="1" stop-color="#00d300"/>
+    </linearGradient>
+
+    <style>
+      .fill-grad{fill:url(#grad-e)}
+      .fill-white{fill:#ffffff}
+    </style>
+  </defs>
+
+  <g id="main-shape" transform="translate(0 0) scale(1)">
+    <path class="fill-grad" d="M264.41,215.22h-91.97S340.59,0,340.59,0h91.97l-168.15,215.22Z"/>
+  </g>
+
+  <g id="overlay-polygons" transform="translate(0 0) scale(1)">
+    <polygon class="fill-white" points="346.64 436.47 91.97 110.67 0 110.67 127.28 273.5 0 436.47 91.97 436.47 173.28 332.35 254.66 436.47 346.64 436.47"/>
+  </g>
+</svg>
