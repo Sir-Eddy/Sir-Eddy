@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+  <clipPath id="outerClip">
+      <rect x="0" y="0" width="48" height="48" rx="8" ry="8"/>
+    </clipPath>
+    <clipPath id="innerClip">
+      <rect x="4" y="4" width="38" height="38" rx="4" ry="4"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#outerClip)">
+    <rect x="0" y="0" width="48" height="48" rx="8" ry="8" fill="#80808010"/>
+  </g>
+
+  <image
+    x="4" y="4" width="38" height="38"
+    preserveAspectRatio="xMidYMid meet"
+    clip-path="url(#innerClip)"
+    href="data:image/svg+xml;base64,
+        PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBT
+        VkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xz
+        IC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDMyIDMy
+        IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjx0aXRsZT5maWxlX3R5cGVfbmdp
+        bng8L3RpdGxlPjxwYXRoIGQ9Ik0xNS45NDgsMmguMDY1YTEwLjQxOCwxMC40MTgsMCwwLDEsLjk3
+        Mi41MjhRMjIuNDE0LDUuNjUsMjcuODQzLDguNzc0YS43OTIuNzkyLDAsMCwxLC40MTQuNzg4Yy0u
+        MDA4LDQuMzg5LDAsOC43NzctLjAwNSwxMy4xNjRhLjgxMy44MTMsMCwwLDEtLjM1Ni41MDdxLTUu
+        NzczLDMuMzI0LTExLjU0Nyw2LjY0NGEuNTg3LjU4NywwLDAsMS0uNjU3LjAzN1E5LjkxMiwyNi42
+        LDQuMTQzLDIzLjI3NGEuNy43LDAsMCwxLS40LS42NjZxMC02LjU4MiwwLTEzLjE2M2EuNjkzLjY5
+        MywwLDAsMSwuMzg3LS42N1E5LjU1Miw1LjY1NywxNC45NzQsMi41MzVjLjMyMi0uMTg0LjYzOC0u
+        Mzc5Ljk3NC0uNTM1IiBzdHlsZT0iZmlsbDojMDE5NjM5Ii8+PHBhdGggZD0iTTguNzY3LDEwLjUz
+        OHEwLDUuNDI5LDAsMTAuODU5YTEuNTA5LDEuNTA5LDAsMCwwLC40MjcsMS4wODcsMS42NDcsMS42
+        NDcsMCwwLDAsMi4wNi4yMDYsMS41NjQsMS41NjQsMCwwLDAsLjY4NS0xLjI5M2MwLTIuNjItLjAw
+        NS01LjI0LDAtNy44NnEzLjU4Myw0LjI5LDcuMTgxLDguNTY4YTIuODMzLDIuODMzLDAsMCwwLDIu
+        Ni43ODIsMS41NjEsMS41NjEsMCwwLDAsMS4yNTEtMS4zNzFxLjAwOC01LjU0MSwwLTExLjA4MWEx
+        LjU4MiwxLjU4MiwwLDAsMC0zLjE1MiwwYzAsMi42NjItLjAxNiw1LjMyMSwwLDcuOTgyLTIuMzQ2
+        LTIuNzY2LTQuNjYzLTUuNTU2LTctOC4zMzJBMi44MTcsMi44MTcsMCwwLDAsMTAuMTcsOS4wMzMs
+        MS41NzksMS41NzksMCwwLDAsOC43NjcsMTAuNTM4WiIgc3R5bGU9ImZpbGw6I2ZmZiIvPjwvc3Zn
+        Pg=="
+  />
+</svg>

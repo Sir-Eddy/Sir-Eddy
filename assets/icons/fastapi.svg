@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+  <clipPath id="outerClip">
+      <rect x="0" y="0" width="48" height="48" rx="8" ry="8"/>
+    </clipPath>
+    <clipPath id="innerClip">
+      <rect x="4" y="4" width="38" height="38" rx="4" ry="4"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#outerClip)">
+    <rect x="0" y="0" width="48" height="48" rx="8" ry="8" fill="#80808010"/>
+  </g>
+
+  <image
+    x="4" y="4" width="38" height="38"
+    preserveAspectRatio="xMidYMid meet"
+    clip-path="url(#innerClip)"
+    href="data:image/svg+xml;base64,
+        PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjI1MDAiIHdpZHRoPSIyNTAwIiB4bWxucz0iaHR0cDov
+        L3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNTQgMTU0Ij48Y2lyY2xlIGN4PSI3
+        NyIgY3k9Ijc3IiBmaWxsPSIjMDU5OThiIiByPSI3NyIvPjxwYXRoIGQ9Ik04MS4zNzUgMTguNjY3
+        bC0zOC43NSA3MEg3Ny41bC0zLjg3NSA0Ni42NjYgMzguNzUtNzBINzcuNXoiIGZpbGw9IiNmZmYi
+        Lz48L3N2Zz4="
+  />
+</svg>

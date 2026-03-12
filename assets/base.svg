@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+  <clipPath id="outerClip">
+      <rect x="0" y="0" width="48" height="48" rx="8" ry="8"/>
+    </clipPath>
+    <clipPath id="innerClip">
+      <rect x="4" y="4" width="38" height="38" rx="4" ry="4"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#outerClip)">
+    <rect x="0" y="0" width="48" height="48" rx="8" ry="8" fill="#80808010"/>
+  </g>
+
+  <image
+    x="4" y="4" width="38" height="38"
+    preserveAspectRatio="xMidYMid meet"
+    clip-path="url(#innerClip)"
+    href="data:image/svg+xml;base64,"
+  />
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+  <clipPath id="outerClip">
+      <rect x="0" y="0" width="48" height="48" rx="8" ry="8"/>
+    </clipPath>
+    <clipPath id="innerClip">
+      <rect x="4" y="4" width="38" height="38" rx="4" ry="4"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#outerClip)">
+    <rect x="0" y="0" width="48" height="48" rx="8" ry="8" fill="#80808010"/>
+  </g>
+
+  <image
+    x="4" y="4" width="38" height="38"
+    preserveAspectRatio="xMidYMid meet"
+    clip-path="url(#innerClip)"
+    href="data:image/svg+xml;base64,
+        PHN2ZyB3aWR0aD0iMjUwMCIgaGVpZ2h0PSIyNTAwIiB2aWV3Qm94PSIwIDAgMjU2IDI1NiIgeG1s
+        bnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlu
+        WU1pbiBtZWV0Ij48cGF0aCBkPSJNNzAuNTM0IDY5LjY5Nkw1My45ODggNTMuMTVsLjA3IDExOS42
+        LjE5OCA1LjU5Yy4wODIgMi42My41NyA1LjU5OCAxLjM4NCA4LjY3NGwxMzEuMTA0IDQ2LjIzIDMy
+        Ljc3Mi0xNC41Mi4wMTItLjA0TDcwLjUzNCA2OS42OTYiIGZpbGw9IiMwMEQyQjgiLz48cGF0aCBk
+        PSJNNTUuNjQgMTg3LjAxNGwuMDA4LjAwOGMtLjAwOC0uMDU0LS4wMzYtLjExNC0uMDM2LS4xNyAw
+        IC4wNTYuMDA4LjEwOC4wMjguMTYyem0xNjMuODc2IDMxLjcxbC0zMi43NzIgMTQuNTItMTMxLjA5
+        Ni00Ni4yMjJjMi41MDQgOS42MDggOC4wNDggMjAuNDA4IDE0LjAxNCAyNi4zMTRsNDIuNzg0IDQy
+        LjU0IDk1LjEzLjEyNCAxMS45NTItMzcuMzE2LS4wMTIuMDR6IiBmaWxsPSIjNTVERENBIi8+PHBh
+        dGggZD0iTTMuMDM0IDEzMC4xMTZjLTQuMjM2IDQuNTIyLTIuMTMyIDEzLjg1IDQuNjg4IDIwLjcy
+        MkwzNy4xNCAxODAuNWwxOC41IDYuNTE0Yy0uODE0LTMuMDc2LTEuMzAyLTYuMDQ0LTEuMzg0LTgu
+        Njc0bC0uMTk4LTUuNTktLjA3LTExOS42LTUwLjk1NCA3Ni45NjZ6IiBmaWxsPSIjMDA4MUM2Ii8+
+        PHBhdGggZD0iTTE4Ny44MiA1NC42ODZjLTMuMDc2LS43ODYtNi4wMjYtMS4yNzItOC43LTEuMzU2
+        bC01LjkwOC0uMjA0LTExOS4yMjQuMDE2IDE2NS41NTYgMTY1LjU0MmguMDE0bDE0LjU0LTMyLjgw
+        NEwxODcuODIgNTQuNjg2IiBmaWxsPSIjMDA3OUIzIi8+PHBhdGggZD0iTTE4Ny42NyA1NC42NTRj
+        LjA2NC4wMTQuMTE0LjAzMi4xNTYuMDM4bC0uMDA2LS4wMDZjLS4wMzYtLjAxOC0uMDg2LS4wMTgt
+        LjE1LS4wMzJ6bTI2LjQ0OCAxNC4wNzhjLTYuMDA4LTYuMDU4LTE2LjY2Ni0xMS41NjQtMjYuMjky
+        LTE0LjA0bDQ2LjI3MiAxMzEuMTg4LTE0LjU0IDMyLjgwNGgtLjAxNGwzNS41MzItMTEuMzQ4LjA3
+        Ni05Ny40MTYtNDEuMDM0LTQxLjE4OHoiIGZpbGw9IiMwMEE0RTQiLz48cGF0aCBkPSJNMTgxLjMz
+        OCAzNi4yOThMMTUxLjY4NCA2Ljg2MmMtNi44NTgtNi43OTQtMTYuMTktOC45MDgtMjAuNy00LjY4
+        NEw1My45ODggNTMuMTQybDExOS4yMjQtLjAxNiA1LjkwOC4yMDRjMi42NzQuMDg0IDUuNjI0LjU3
+        IDguNyAxLjM1NmwtNi40ODItMTguMzg4eiIgZmlsbD0iIzAwRDJCOCIvPjwvc3ZnPg=="
+  />
+</svg>
