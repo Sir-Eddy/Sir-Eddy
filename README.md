@@ -45,12 +45,12 @@ In addition, I am currently learning about the following:
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-ten-alpha-e2cejwbh0d.vercel.app/api/top-langs/?username=Sir-Eddy&layout=donut&theme=dracula&hide_border=true&bg_color=80808010&size_weight=0.75&count_weight=0.25&langs_count=5" alt="GitHub Stats" align="right" width="40%">
+    <img src="https://github-readme-stats-ten-alpha-e2cejwbh0d.vercel.app/api/top-langs/?username=elias-alexander-eder&layout=donut&theme=dracula&hide_border=true&bg_color=80808010&size_weight=0.75&count_weight=0.25&langs_count=5" alt="GitHub Stats" align="right" width="40%">
   </a>
   <div align="left">
     <h3>My favourite project I work on ❤️</h3>
-    <a href="https://github.com/Sir-Eddy/thd_notes">
-      <img src="https://github-readme-stats-ten-alpha-e2cejwbh0d.vercel.app/api/pin/?username=Sir-Eddy&repo=thd_notes&theme=dracula&hide_border=true&bg_color=80808010" alt="Readme Card" width="53%">
+    <a href="https://github.com/elias-alexander-eder/thd_notes">
+      <img src="https://github-readme-stats-ten-alpha-e2cejwbh0d.vercel.app/api/pin/?username=elias-alexander-eder&repo=PassHub&theme=dracula&hide_border=true&bg_color=80808010" alt="Readme Card" width="53%">
     </a>
   </div>
 </div>
